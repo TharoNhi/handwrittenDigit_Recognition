@@ -1,0 +1,4 @@
+train: D:\@_YenNgoc\Desktop\Project\images\train
+val: D:\@_YenNgoc\Desktop\Project\images\val
+nc: 3
+names: ['ngay','thang','nam']
